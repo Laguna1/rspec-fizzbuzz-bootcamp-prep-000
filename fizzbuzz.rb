@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 def fizzbuzz
   if i % 3 == 0
-        puts "Fizz"
+        return "Fizz"
     elsif i % 5 == 0
         puts "Buzz"
     elsif i% 3 == 0
